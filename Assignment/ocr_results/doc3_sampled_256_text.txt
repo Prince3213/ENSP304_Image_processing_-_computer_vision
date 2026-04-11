@@ -1,0 +1,18 @@
+OCR Results for Document 3 - sampled_256
+======================================================================
+
+Best Method: original_gray
+Characters extracted: 69
+Words extracted: 16
+
+======================================================================
+EXTRACTED TEXT:
+======================================================================
+You can use this tool
+
+to write a long text and
+
+save it as an image.
+======================================================================
+Extracted on: 2026-04-11 21:01:45
+Image: document3.png

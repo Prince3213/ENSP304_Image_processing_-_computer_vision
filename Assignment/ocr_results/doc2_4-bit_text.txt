@@ -1,0 +1,37 @@
+OCR Results for Document 2 - 4-bit
+======================================================================
+
+Best Method: adaptive
+Characters extracted: 180
+Words extracted: 61
+
+======================================================================
+EXTRACTED TEXT:
+======================================================================
+= a
+
+5 in
+
+$ 4 _ : A
+pal gm Th AVE S
+
+Lo Aes MA AY LC,
+
+wiaiaiain
+
+u) ff | sm td i
+
+| a a's
+
+| & ih !
+
+mi i * i
+
+a A ry AU VA i i
+fey hl fy a a
+
+y a, Fy Sy hy
+he seat Ky m4 . ‘ib j
+======================================================================
+Extracted on: 2026-04-11 21:00:38
+Image: document2.png

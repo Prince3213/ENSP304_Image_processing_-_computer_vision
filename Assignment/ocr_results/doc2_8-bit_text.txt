@@ -1,0 +1,27 @@
+OCR Results for Document 2 - 8-bit
+======================================================================
+
+Best Method: adaptive
+Characters extracted: 222
+Words extracted: 70
+
+======================================================================
+EXTRACTED TEXT:
+======================================================================
+SUE Pee fo ey ‘i
+ig Res FO sg "
+: ee an Os
+Pes Ne Mechta
+. Ve AE Fi, |
+fp cep a “SONAR A as
+, LT iN gfe
+are co ae
+ae? A Ni
+if a ae ay ; %, +
+re Un need ary HRY a AN Ve
+YB NINE ZEN NE f
+eed Ne P, bey POA ML |.
+me, Se A A RE
+======================================================================
+Extracted on: 2026-04-11 21:00:27
+Image: document2.png

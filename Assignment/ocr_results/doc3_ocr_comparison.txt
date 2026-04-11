@@ -1,0 +1,85 @@
+OCR QUALITY COMPARISON REPORT - DOCUMENT 3
+======================================================================
+
+ORIGINAL (512×512, 8-bit):
+----------------------------------------
+You can use this tool
+
+to write a long text and
+
+save it as an image.
+[Characters: 69]
+
+========================================
+
+SAMPLED - 512×512:
+----------------------------------------
+You can use this tool
+
+to write a long text and
+
+save it as an image.
+[Characters: 69 | Quality: 100.0%]
+
+========================================
+
+SAMPLED - 256×256:
+----------------------------------------
+You can use this tool
+
+to write a long text and
+
+save it as an image.
+[Characters: 69 | Quality: 100.0%]
+
+========================================
+
+SAMPLED - 128×128:
+----------------------------------------
+You can use this toot
+
+to write a long text and
+
+save it as an image,
+[Characters: 69 | Quality: 100.0%]
+
+========================================
+
+QUANTIZED - 8-bit:
+----------------------------------------
+You can use this tool
+
+to write a long text and
+
+save it as an image.
+[Characters: 69 | Quality: 100.0%]
+
+========================================
+
+QUANTIZED - 4-bit:
+----------------------------------------
+You can use this tool
+
+to write a long text and
+
+save iit as an image.
+[Characters: 70 | Quality: 101.4%]
+
+========================================
+
+QUANTIZED - 2-bit:
+----------------------------------------
+You can use this tool
+
+to write a long text and
+
+Save iit as an image.
+[Characters: 70 | Quality: 101.4%]
+
+========================================
+
+OCR QUALITY SUMMARY:
+----------------------------------------
+Best Quality: Original (512×512, 8-bit) - 69 chars
+Medium Quality: 256×256 or 4-bit
+Poor Quality: 128×128 or 2-bit

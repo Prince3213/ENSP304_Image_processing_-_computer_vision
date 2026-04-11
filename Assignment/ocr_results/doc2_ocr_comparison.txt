@@ -1,0 +1,119 @@
+OCR QUALITY COMPARISON REPORT - DOCUMENT 2
+======================================================================
+
+ORIGINAL (512×512, 8-bit):
+----------------------------------------
+SUE Pee fo ey ‘i
+ig Res FO sg "
+: ee an Os
+Pes Ne Mechta
+. Ve AE Fi, |
+fp cep a “SONAR A as
+, LT iN gfe
+are co ae
+ae? A Ni
+if a ae ay ; %, +
+re Un need ary HRY a AN Ve
+YB NINE ZEN NE f
+eed Ne P, bey POA ML |.
+me, Se A A RE
+[Characters: 222]
+
+========================================
+
+SAMPLED - 512×512:
+----------------------------------------
+SUE Pee fo ey ‘i
+ig Res FO sg "
+: ee an Os
+Pes Ne Mechta
+. Ve AE Fi, |
+fp cep a “SONAR A as
+, LT iN gfe
+are co ae
+ae? A Ni
+if a ae ay ; %, +
+re Un need ary HRY a AN Ve
+YB NINE ZEN NE f
+eed Ne P, bey POA ML |.
+me, Se A A RE
+[Characters: 222 | Quality: 100.0%]
+
+========================================
+
+SAMPLED - 256×256:
+----------------------------------------
+text}
+[Characters: 5 | Quality: 2.3%]
+
+========================================
+
+SAMPLED - 128×128:
+----------------------------------------
+text}
+[Characters: 5 | Quality: 2.3%]
+
+========================================
+
+QUANTIZED - 8-bit:
+----------------------------------------
+SUE Pee fo ey ‘i
+ig Res FO sg "
+: ee an Os
+Pes Ne Mechta
+. Ve AE Fi, |
+fp cep a “SONAR A as
+, LT iN gfe
+are co ae
+ae? A Ni
+if a ae ay ; %, +
+re Un need ary HRY a AN Ve
+YB NINE ZEN NE f
+eed Ne P, bey POA ML |.
+me, Se A A RE
+[Characters: 222 | Quality: 100.0%]
+
+========================================
+
+QUANTIZED - 4-bit:
+----------------------------------------
+= a
+
+5 in
+
+$ 4 _ : A
+pal gm Th AVE S
+
+Lo Aes MA AY LC,
+
+wiaiaiain
+
+u) ff | sm td i
+
+| a a's
+
+| & ih !
+
+mi i * i
+
+a A ry AU VA i i
+fey hl fy a a
+
+y a, Fy Sy hy
+he seat Ky m4 . ‘ib j
+[Characters: 180 | Quality: 81.1%]
+
+========================================
+
+QUANTIZED - 2-bit:
+----------------------------------------
+text}
+[Characters: 5 | Quality: 2.3%]
+
+========================================
+
+OCR QUALITY SUMMARY:
+----------------------------------------
+Best Quality: Original (512×512, 8-bit) - 222 chars
+Medium Quality: 256×256 or 4-bit
+Poor Quality: 128×128 or 2-bit

@@ -1,0 +1,18 @@
+OCR Results for Document 3 - 2-bit
+======================================================================
+
+Best Method: sharpened
+Characters extracted: 70
+Words extracted: 16
+
+======================================================================
+EXTRACTED TEXT:
+======================================================================
+You can use this tool
+
+to write a long text and
+
+Save iit as an image.
+======================================================================
+Extracted on: 2026-04-11 21:02:54
+Image: document3.png
